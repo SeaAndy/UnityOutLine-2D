@@ -1,5 +1,5 @@
 # UnityOutLine-2D
-# 利用Shader来实现Sprite和Image的Outline效果
+# 利用Shader来实现Sprite和Image的Outline效果（类似PS的磁性套索）
 
 * 只需在SpriteRenderer上绑定SpriteOutline组件，即可实现Outline效果
 
